@@ -1,0 +1,13 @@
+{
+  "name": "Essence Bénin",
+  "short_name": "Essence Bénin",
+  "description": "Trouvez les stations-service et vérifiez la disponibilité de l’essence au Bénin.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F7F8F4",
+  "theme_color": "#0B6B5A",
+  "lang": "fr",
+  "icons": [
+    { "src": "/assets/images/icon.png", "sizes": "1024x1024", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
